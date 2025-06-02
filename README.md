@@ -55,7 +55,6 @@ A backend that allows customers to reserve tables at restaurants for specific da
 
 
 ![get_table](https://github.com/user-attachments/assets/16af5a57-c563-4cea-81c9-d9ff20601bfc)
-![Uploading table_created.png…]()
 ![Table_Api_Test](https://github.com/user-attachments/assets/4a5ea7db-32b3-4cfd-9947-cc1a7a3ece6d)
 ![reservation_test](https://github.com/user-attachments/assets/87575b65-27a0-4551-b029-385685ea5ffb)
 ![login](https://github.com/user-attachments/assets/7e543b9b-01c4-4dac-a68e-5e613058eb7b)
